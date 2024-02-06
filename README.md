@@ -1,2 +1,2 @@
-# -8mill
+# 8mill
 #8Mill CNC mini beast
